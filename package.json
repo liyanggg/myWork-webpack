@@ -20,6 +20,6 @@
     "start": "npm run build && npm run server" 
   },
   "keywords": [],
-  "author": "",
+  "author": "Lyang",
   "license": "ISC"
 }
